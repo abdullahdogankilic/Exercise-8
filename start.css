@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  height: 100%;
+}
+#orange {
+  flex-grow: 1;
+}
+#yellow {
+  order: -1;
+}
+#red {
+  order: -1;
+}
